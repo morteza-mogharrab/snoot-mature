@@ -6,6 +6,10 @@ Snoot is a full front-end for a pet-first social platform. It combines a photo f
 
 > Every pet, person, place, event and caption in the demo is invented. The photos are free-to-use sample images (see *Media credits*).
 
+## Screenshot
+
+![Snoot home screen](./Screenshot.png)
+
 ## Run it
 
 ```bash
